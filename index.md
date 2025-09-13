@@ -2,6 +2,8 @@
 
 A comprehensive MetaTrader 5 Expert Advisor that combines multiple technical indicators to generate trading signals and execute automated trades.
 
+![SMC Indicator Screenshot 1](image_1.png)
+
 ## Overview
 
 MultiIndicatorAdvisor is a sophisticated trading system that integrates various technical analysis indicators including MACD, RSI, Smart Money Concepts (SMC), Doji patterns, Central Pivot Range (CPR), and Moving Averages to provide robust trading signals. The EA is designed to work across multiple timeframes and provides both alert and automated trading capabilities.
